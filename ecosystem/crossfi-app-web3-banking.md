@@ -47,8 +47,8 @@ The cornerstone of CrossFi App is the CrossFi Card. Unlike traditional bank card
 
 XFI is the native token of CrossFi Chain, powering transactions and access to the app’s features. When making payments or withdrawing cash, XFI is automatically converted to fiat at the current exchange rate.
 
-* **Learn More**: XFI Coin
-* **How to Obtain XFI**: Get Coins
+* **Learn More**:[ XFI Coin](../economy-overview/xfi-coin.md)
+* **How to Obtain XFI**: [Get Coins](../economy-overview/get-coins.md#xfi-token)
 
 ***
 
