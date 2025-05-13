@@ -24,6 +24,7 @@
   * [Roles](concepts/roles.md)
   * [FAQ](concepts/faq.md)
 * [Ecosystem](ecosystem/README.md)
+  * [CrossFi App (Web3 Banking)](ecosystem/crossfi-app-web3-banking.md)
   * [XFI Scan](ecosystem/xfi-scan.md)
   * [XFI Console](ecosystem/xfi-console/README.md)
     * [XFI-MPX Staking](ecosystem/xfi-console/xfi-mpx-staking.md)

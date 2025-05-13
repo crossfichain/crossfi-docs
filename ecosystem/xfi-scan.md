@@ -7,7 +7,7 @@ XFI Scan is a highly functional blockchain explorer for the CrossFi Chain networ
 The XFI Scan main page aggregates key statistical indicators of CrossFi Chain's operation, allowing users to gain a general understanding of the network's performance and stability. It displays the current XFI token price, market capitalization, and MPX-related data, including the annual percentage return (APR). Additionally, this page provides information on blocks, including the total number of blocks created, the average block formation time (approximately 5 seconds), and a summary of transaction statistics, such as the total number of transactions and the network's transaction throughput (TPS).\
 In the **Emission** section, users can review XFI issuance periods, the number of tokens issued per block, and other emission parameters, allowing for an assessment of token distribution dynamics throughout the network's lifecycle.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Validators Section**
 
@@ -16,7 +16,7 @@ In the **Emission** section, users can review XFI issuance periods, the number o
 XFI Scan enables users to track validator activity within the network. The **Validators** section provides detailed data on each validator, including uptime metrics, the number of missed confirmations, and the volume of delegated MPX tokens.\
 This information helps assess the reliability and performance of validators, which is crucial when selecting partners for delegating tokens. The system incentivizes validators through commissions, rewards, and bonuses for active participation, motivating them to adhere to high operational standards and ensuring transparent network management.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Tokens Section**
 
