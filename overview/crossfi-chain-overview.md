@@ -40,7 +40,7 @@ Key participants in the CrossFi Chain ecosystem include **validators, delegators
 #### **Core Tokens:**
 
 * [**MPX** ](../economy-overview/mpx-coin/)_(Cosmos Layer Token)_:
-  * Used for [**staking**](../ecosystem/xfi-console/xfi-mpx-staking.md)**,** [**governance**](../ecosystem/xfi-console/governance-dao.md)**, and transaction fees**.
+  * Used for [**staking**](../ecosystem/xfi-console/native-staking-protocol.md)**,** [**governance**](../ecosystem/xfi-console/governance-dao.md)**, and transaction fees**.
   * **Unlimited supply** to support network functionality and validator incentives.
 * [**XFI**](../economy-overview/xfi-coin.md) _(EVM Layer Utility Token)_:
   * Grants access to **dApps, DeFi services, and payment solutions**.

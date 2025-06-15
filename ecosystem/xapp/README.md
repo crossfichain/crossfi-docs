@@ -1,25 +1,27 @@
 # xApp
 
-xAPP is a decentralized application (DApp) within the CrossFi ecosystem, providing users with access to essential DeFi functionalities, including token swaps, liquidity provision, staking, and reward mechanisms. Designed to streamline asset management within the CrossFi Chain, xAPP integrates seamlessly with EVM-compatible wallets, ensuring secure and efficient financial interactions.
+**CrossFi xAPP** is a decentralized application (DApp) in the CrossFi ecosystem, combining core DeFi features on a single, convenient platform. Users can swap tokens, provide liquidity to pools and receive LP tokens, stake them, and earn rewards — all through an intuitive interface.
 
-### Key Features and Market Position
+### **Advantages**
 
-xAPP is positioned as an **omni-DeFi** platform, consolidating key DeFi tools under one interface. It offers strategic functionalities such as:
+CrossFi xAPP acts as an _omni-DeFi_ platform, bundling all essential tools for managing crypto assets. This all-in-one approach saves time and eliminates the need to switch between different applications. The high-speed transaction engine of CrossFi Chain ensures near-instant execution, which is especially useful for arbitrage and fast portfolio rebalancing.
 
-* **Token swaps** for seamless exchanges of EVM-compatible assets.
-* **Liquidity provision**, allowing users to contribute to pools and earn LP tokens.
-* **Staking**, enabling users to earn passive rewards.
-* **Rewards distribution**, incentivizing long-term engagement within the ecosystem.
-* **Automated DeFi strategies**, simplifying yield farming and liquidity staking for users of all experience levels.
-* **Instant cross-chain asset bridging**, providing enhanced liquidity and flexibility.
-* **Fast and efficient transactions**, ensuring users can quickly respond to market conditions.
+### **Security**
 
-xAPP simplifies DeFi interactions through an intuitive interface. Users can perform token swaps, liquidity additions, and staking with a few clicks, while backend protocols like **deBridge** and **SushiSwap** handle complex liquidity routing and asset bridging. This design reduces the barriers to entry, making DeFi accessible for both beginners and experienced traders.
+User and fund security is a top priority for CrossFi xAPP. The app doesn’t require a separate account: **authentication is handled via your own wallet** (by signing transactions), so your private keys always remain with you. All transmitted data is encrypted using modern protocols (SSL/TLS), securing your browser's connection to the service.
 
-A **dynamic dashboard** allows users to monitor their portfolios, track asset allocations, and execute trades efficiently, ensuring informed financial decisions. The platform’s highly responsive transaction processing ensures users can react quickly to market fluctuations and capture opportunities in real-time.
+### **Wallet Support:**
 
-#### Security and External Protocol Integration
+To use xAPP, you need an EVM-compatible wallet. The application is natively compatible with MetaMask, Trust Wallet, and others via WalletConnect.
 
-xAPP ensures a secure and transparent environment by integrating reliable DeFi protocols such as SushiSwap and deBridge. These integrations allow users to seamlessly transfer assets between networks and acquire XFI directly from other ecosystems, providing a frictionless on-ramp into CrossFi’s DeFi ecosystem.
+Connecting a wallet unlocks access to all xAPP features and ensures secure transaction execution on behalf of the user. Future updates will expand wallet support, so users can choose their preferred storage for digital assets.
 
-To enhance transparency, xAPP also integrates **price oracles** and **cross-network bridge services**, ensuring accurate asset valuation and secure multi-chain operations.
+### **Main Navigation:**
+
+The xAPP interface is divided into several core sections, accessible via the sidebar:
+
+* [**Dashboard**](dashboard.md)**:** The main page showing balances of your tokens and LP tokens, along with your transaction history.
+* [**Swap**](swap.md)**:** A built-in decentralized exchange for token swaps.
+* [**LP Tokens**](lp-tokens.md)**:** A section for adding liquidity to pools and receiving LP tokens.
+* [**Staking**](staking.md)**:** A page to stake LP tokens and earn rewards.
+* [**Rewards**](rewards.md)**:** A section to view and claim accumulated rewards.

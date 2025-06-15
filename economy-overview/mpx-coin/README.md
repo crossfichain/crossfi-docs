@@ -25,10 +25,10 @@ Mint Power (MPX) is the governance token and core component of the CrossFi Chain
 
 MPX serves as the foundational asset for staking, providing users with passive income in the form of XFI tokens. Staking encourages users to actively contribute to network security and stability.
 
-Detailed information about the staking mechanism, validator operation principles, and protection against validator misconduct can be found on the [XFI-MPX Staking Protocol](../../ecosystem/xfi-console/xfi-mpx-staking.md).
+Detailed information about the staking mechanism, validator operation principles, and protection against validator misconduct can be found on the [XFI-MPX Staking Protocol](../../ecosystem/xfi-console/native-staking-protocol.md).
 
-{% content-ref url="../../ecosystem/xfi-console/xfi-mpx-staking.md" %}
-[xfi-mpx-staking.md](../../ecosystem/xfi-console/xfi-mpx-staking.md)
+{% content-ref url="../../ecosystem/xfi-console/native-staking-protocol.md" %}
+[native-staking-protocol.md](../../ecosystem/xfi-console/native-staking-protocol.md)
 {% endcontent-ref %}
 
 #### 2. Decentralized Governance

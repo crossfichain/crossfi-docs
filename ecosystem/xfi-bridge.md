@@ -1,5 +1,7 @@
 # XFI Bridge
 
+{% embed url="https://xfibridge.crossfi.org/" %}
+
 ## XFI Bridge Overview
 
 XFI Bridge is the most important infrastructural component of the CrossFi ecosystem, designed for the seamless transfer of digital assets between Ethereum Virtual Machine (EVM)-compatible networks and the CrossFi Chain blockchain built on Cosmos technology. The primary function of the bridge is to provide secure, fast, and transparent token transfers (e.g., XFI, XUSD, USDT) between CrossFi Chain and popular EVM networks such as Ethereum, BNB Chain, Basechain, and Polygon.

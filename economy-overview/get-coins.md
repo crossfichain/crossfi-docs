@@ -16,7 +16,7 @@
 
 #### 3. Purchasing via CrossFi Bridge (from other chains into Cosmos)
 
-**Platform:** [CrossFi Bridge (EVM-to-Cosmos)](https://xfibridge.crossfi.org/evm-to-cosmos)
+**Platform:** [XFI ](../ecosystem/xfi-bridge.md)[Bridge (EVM-to-Cosmos)](https://xfibridge.crossfi.org/evm-to-cosmos)
 
 * Connect your wallet.
 * Select the source network (ETH, BNB Chain, Polygon, Basechain) and an available token to exchange for XFI.
@@ -39,3 +39,4 @@
 * Connect your Cosmos-compatible wallet (e.g., Keplr).
 * Specify the desired amount of XFI to convert.
 * Confirm the transaction and receive MPX.
+

@@ -1,6 +1,6 @@
 # CrossFi App (Web3 Banking)
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
 
 CrossFi App is an innovative Web3 banking application designed to revolutionize the financial sector. Built on the CrossFi Chain blockchain, it seamlessly integrates decentralized finance (DeFi) with traditional banking services. The app enables users to conveniently and profitably use cryptocurrency as fiat in everyday transactions while ensuring secure and flexible asset management through an intuitive interface.
 
